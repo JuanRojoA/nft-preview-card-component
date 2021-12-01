@@ -9,20 +9,19 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-![](./images/screenshot.png)
-![](./images/screenshot-mobile.png)
+![Desktop Screenshot](./images/screenshot.png)
+![Mobile Screenshot](<center>./images/screenshot-mobile.png</center>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/JuanRojoA/nft-preview-card-component)
+- Live Site URL: [Add live site URL here](https://juanrojoa.github.io/nft-preview-card-component/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
