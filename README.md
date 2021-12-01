@@ -12,12 +12,12 @@ Users should be able to:
 ### Screenshots
 
 ![Desktop Screenshot](./images/screenshot.png)
-![Mobile Screenshot](<center>./images/screenshot-mobile.png</center>)
+![Mobile Screenshot](./images/screenshot-mobile.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanRojoA/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://juanrojoa.github.io/nft-preview-card-component/)
+- Live Site URL: [Github Pages](https://juanrojoa.github.io/nft-preview-card-component/)
 
 ### Built with
 
